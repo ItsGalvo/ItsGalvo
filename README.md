@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Formado em Informática pelo IFES - Cachoeiro<br><br>💻 Bacharelando em Ciência da Computação pela UFES<br><br>📱 Apaixonado por tecnologia desde criança, com experiência em automação e projetos inovadores.</p>
+<p align="left">Formado em Informática pelo IFES - Cachoeiro<br><br>Bacharelando em Ciência da Computação pela UFES<br><br> Apaixonado por tecnologia desde criança, com experiência em automação e projetos inovadores.</p>
 
 ###
 
